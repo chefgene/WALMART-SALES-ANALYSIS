@@ -38,5 +38,4 @@ dales spike reduced greatly in it momentum till February 2013 we saw a sharp inc
 
 ## DASHBOARD
 
-![](https://github.com/chefgene/WALMART-SALES-ANALYSIS/blob/main/wikki-img/WA%20DASHBPARD.pdf)
 
