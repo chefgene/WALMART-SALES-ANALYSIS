@@ -1,6 +1,10 @@
 # WALMART-SALES-ANALYSIS
 ## sales analysis forthe year 2011-2014
 
+thanks to Kaggle for providing this dataset of Walmart and it was quite interesting exploring it.
+
+in the rich dataset provided, I was intrigued about California being the state with the highest profit and sales, both sum and count of sales. I said to myself that something must be responsible for this trend, I put down some possibilities such as high population by the time I googled some information about California I found out that there were two factors responsible for this trend
+
 ## PROBLEM STATEMWENT
 * which state has the highest profit and sales and what is the highes count of sales by category?
 * which state the highest count of sales and which prduct has the highest profit  and count of sales?
@@ -37,6 +41,8 @@ dales spike reduced greatly in it momentum till February 2013 we saw a sharp inc
 ![](https://github.com/chefgene/WALMART-SALES-ANALYSIS/blob/main/wikki-img/wa3.PNG)
 
 ## DASHBOARD
+
+ *you can interact with the dasboard  https://lnkd.in/dtBK7tQD
 ![](https://github.com/chefgene/WALMART-SALES-ANALYSIS/blob/main/1_df2ZVDjlju28cTcG7Vsisg.webp)
 
 
