@@ -35,3 +35,8 @@ sales started well in 2011 and shoot up till December until it started to declin
 dales spike reduced greatly in it momentum till February 2013 we saw a sharp increase in sales too which was steady and gave us one of the best with good sales among the four years
 
 ![](https://github.com/chefgene/WALMART-SALES-ANALYSIS/blob/main/wikki-img/wa3.PNG)
+
+## DASHBOARD
+
+![](https://github.com/chefgene/WALMART-SALES-ANALYSIS/blob/main/wikki-img/WA%20DASHBPARD.pdf)
+
