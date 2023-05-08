@@ -1,3 +1,4 @@
+![](https://github.com/chefgene/WALMART-SALES-ANALYSIS/blob/main/OIP%20(9).jfif)
 # WALMART-SALES-ANALYSIS
 ## sales analysis forthe year 2011-2014
 
